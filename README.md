@@ -4,7 +4,7 @@
 ## 用法
 1. 將 `custom.css` 放到 v2board 目錄的 `/public/assets/[user,admin]` 目錄中
 2. 將 static 中的 `inter*` 字體檔案 放到 v2board 目錄的 `/public/assets/[user,admin]/static` 目錄中
-3. 使用前後分離部署時，還需要修改 index.html，在 head 中 `<link rel="stylesheet" href="./umi.css">` 的後方加入 `<link rel="stylesheet" href="./custom.css">`
+3. 使用前後分離部署時，還需修改 index.html，在 head 中 `<link rel="stylesheet" href="./umi.css">` 的後方加入 `<link rel="stylesheet" href="./custom.css">`
 
 ## 特點
 + 使用 `font-variant-east-asian: traditional` 屬性將 UI 文字繁體化
