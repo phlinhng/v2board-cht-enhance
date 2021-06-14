@@ -18,3 +18,6 @@
 
 ## 參考
 + [一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/comment-page-1/)
+
+## 感謝
++ [google-webfonts-helper.herokuapp.com](https://google-webfonts-helper.herokuapp.com/fonts/inter)
