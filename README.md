@@ -2,10 +2,8 @@
 增強 v2board 在繁體中文環境下的字體顯示體驗
 
 ## 用法
-1. 將 `[custom,fonts].css` 放到 v2board 目錄的 `/public/assets/[user,admin]` 目錄中
-2. 將 static 中的 `inter*` 字體檔案 放到 v2board 目錄的 `/public/assets/[user,admin]/static` 目錄中
-3. 修改 index.html，在 head 中 `<link rel="stylesheet" href="./umi.css">` 的後方加入 `<link rel="stylesheet" href="./custom.css"><link rel="stylesheet" href="./fonts.css">`
-4. 可自行修改 `fonts.css` 中的地址為 CDN 地址，節省前端流量。也可不放置 `fonts.css`，取消遠程加載字型以加快 FTTB。
+1. 將 `ustom.css` 放到 v2board 目錄的 `/public/assets/[user,admin]` 目錄中
+2. 修改 index.html，在 head 中 `<link rel="stylesheet" href="./umi.css">` 的後方加入 `<link rel="stylesheet" href="./custom.css">
 
 ## 特點
 + 使用 `font-variant-east-asian: traditional` 屬性將 UI 文字繁體化
