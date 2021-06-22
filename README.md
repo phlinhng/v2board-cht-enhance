@@ -10,6 +10,7 @@
 + font-family 增加 Microsoft YaHei 做為 Fallback
 + `block-content` 保持原文，避免套餐說明與工單內容因強制轉換而影響辨識
 + 遠程加載 Inter 字體，為不同平台提供一致的英數字顯示
++ 遠程加載 Noto Color Emoji 字體的地區旗幟部分，讓微軟系統顯示地區旗幟，僅支持 Windows 10 以上系統
 
 ## 說明
 + UI 繁體化僅更改字體顯示，源碼仍是簡體字。此特性需要字體配合，目前僅 macOS / iOS 自帶的字體支持。
@@ -22,3 +23,4 @@
 ## 感謝
 + [google-webfonts-helper.herokuapp.com](https://google-webfonts-helper.herokuapp.com/fonts/inter)
 + [basvodde/scrumprimer](https://github.com/basvodde/scrumprimer/tree/master/primer_source_files/overview_translations/Simple%20Chinese/Collected%20Fonts/Hiragino%20Sans%20GB)
++ [Missing flag emojis on Windows](https://prinsfrank.nl/2021/01/25/Non-existing-flag-emojis-on-windows)

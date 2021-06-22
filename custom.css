@@ -30,6 +30,6 @@ button, .ant-table-column-title, .ant-modal-title, .block-title, .btn, .form-gro
   font-family: Segoe UI Emoji;
   unicode-range: U+1F1E6-1F1FF;
   src: local('Noto Color Emoji'),
-       url('./static/NotoColorEmojiWindowsCompatibleSubset.woff2') format('woff2'),
-       url('./static/NotoColorEmojiWindowsCompatibleSubset.woff') format('woff')
+       url('./static/NotoColorEmojiFlag.woff2') format('woff2'),
+       url('./static/NotoColorEmojiFlag.woff') format('woff')
 }
