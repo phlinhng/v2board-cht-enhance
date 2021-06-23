@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+/* China CDN
+@import url('https://fonts.loli.net/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+*/
+
+html, body, h1, h2, h3, h4, h5, h6, .btn, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: Inter,Helvetica Neue,PingFang SC,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial,Noto Sans,Hiragino Sans GB,Microsoft YaHei,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+  font-variant-east-asian: traditional;
+}
+
+button, .ant-table-column-title, .ant-modal-title, .block-title, .btn, .form-group, .form-control {
+  font-variant-east-asian: traditional;
+}
+
+.ant-table-column-title {
+  font-family: menlo, PingFang SC, Hiragino Sans GB, Microsoft YaHei, sans-serif;
+  font-weight: 400;
+}
+
+.font-w700 {
+  font-family: Inter,Helvetica Neue,Hiragino Sans GB,Microsoft YaHei,PingFang SC,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
+
+.block-content, .form-control-alt {
+  font-variant-east-asian: normal!important;
+}
+
+/* relaod flags emoji for windows */
+@font-face {
+  font-family: Segoe UI Emoji;
+  unicode-range: U+1F1E6-1F1FF;
+  src: local('Noto Color Emoji'),
+       url('./static/NotoColorEmojiFlag.woff2') format('woff2'),
+       url('./static/NotoColorEmojiFlag.woff') format('woff')
+}
