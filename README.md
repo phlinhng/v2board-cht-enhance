@@ -5,7 +5,7 @@
 [Demo](https://phlinhng.github.io/v2board-cht-enhance)
 
 ## 用法
-1. 將 `ustom.css` 放到 v2board 目錄的 `/public/assets/[user,admin]` 目錄中
+1. 將 `custom.css` 放到 v2board 目錄的 `/public/assets/[user,admin]` 目錄中
 2. 修改 index.html，在 head 中 `<link rel="stylesheet" href="./umi.css">` 的後方加入 `<link rel="stylesheet" href="./custom.css">
 
 ## 特點
