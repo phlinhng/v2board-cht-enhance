@@ -22,8 +22,8 @@
 
 ## 參考
 + [一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/comment-page-1/)
++ [Missing flag emojis on Windows](https://prinsfrank.nl/2021/01/25/Non-existing-flag-emojis-on-windows)
 
 ## 感謝
 + [google-webfonts-helper.herokuapp.com](https://google-webfonts-helper.herokuapp.com/fonts/inter)
 + [basvodde/scrumprimer](https://github.com/basvodde/scrumprimer/tree/master/primer_source_files/overview_translations/Simple%20Chinese/Collected%20Fonts/Hiragino%20Sans%20GB)
-+ [Missing flag emojis on Windows](https://prinsfrank.nl/2021/01/25/Non-existing-flag-emojis-on-windows)
