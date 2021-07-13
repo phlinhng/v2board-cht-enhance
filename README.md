@@ -6,14 +6,14 @@
 
 ## 用法
 1. 將 `custom.css` 放到 v2board 目錄的 `/public/assets/[user,admin]` 目錄中
-2. 修改 index.html，在 head 中 `<link rel="stylesheet" href="./umi.css">` 的後方加入 `<link rel="stylesheet" href="./custom.css">`
+2. ~~修改 index.html，在 head 中 `<link rel="stylesheet" href="./umi.css">` 的後方加入 `<link rel="stylesheet" href="./custom.css">`~~
 
 ## 特點
 + 使用 `font-variant-east-asian: traditional` 屬性將 UI 文字繁體化
 + font-family 增加 Microsoft YaHei 做為 Fallback
 + `block-content` 保持原文，避免套餐說明與工單內容因強制轉換而影響辨識
 + 遠程加載 Inter 字體，為不同平台提供一致的英數字顯示
-+ 遠程加載 Noto Color Emoji 字體的地區旗幟部分，讓微軟系統顯示地區旗幟，僅支持 Windows 10 以上系統
++ ~~遠程加載 Noto Color Emoji 字體的地區旗幟部分，讓微軟系統顯示地區旗幟，僅支持 Windows 10 以上系統~~
 
 ## 說明
 + UI 繁體化僅更改字體顯示，源碼仍是簡體字。此特性需要字體配合，目前僅 macOS / iOS 自帶的字體支持。
