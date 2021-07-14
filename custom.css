@@ -21,7 +21,7 @@ button, .ant-table-column-title, .ant-modal-title, .block-title, .btn, .form-gro
   font-family: Inter,Helvetica Neue,Hiragino Sans GB,Microsoft YaHei,PingFang SC,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
 }
 
-.block-content, .form-control-alt {
+.ant-drawer-content, .block-content, .custom-control-label, .form-control-alt {
   font-variant-east-asian: normal!important;
 }
 
